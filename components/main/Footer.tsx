@@ -60,7 +60,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="mb-[20px] text-[15px] text-center">
+        <div className="mb-[20px] text-[13px] text-center mt-2">
           &copy; Saddam Dev 2023 Inc. All rights reserved
         </div>
       </div>
